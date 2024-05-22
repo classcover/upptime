@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2005,
-    "timeDay": 1998,
-    "timeWeek": 2005,
-    "timeMonth": 2005,
-    "timeYear": 2005,
+    "time": 1977,
+    "timeDay": 1839,
+    "timeWeek": 1977,
+    "timeMonth": 1977,
+    "timeYear": 1977,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.classcover.com.au.ico",
     "slug": "class-cover-app",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 1476,
-    "timeDay": 1838,
-    "timeWeek": 1476,
-    "timeMonth": 1476,
-    "timeYear": 1476,
-    "dailyMinutesDown": {
-      "2024-05-21": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1442,
+    "timeDay": 1843,
+    "timeWeek": 1442,
+    "timeMonth": 1442,
+    "timeYear": 1442,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ClassCover Jobs",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 140,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "time": 184,
+    "timeDay": 194,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   }
 ]
