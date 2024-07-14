@@ -4,18 +4,20 @@
     "url": "https://www.classcover.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.classcover.com.au.ico",
     "slug": "class-cover-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1937,
-    "timeDay": 2317,
-    "timeWeek": 2006,
-    "timeMonth": 1980,
-    "timeYear": 1937,
-    "dailyMinutesDown": {}
+    "time": 1926,
+    "timeDay": 1625,
+    "timeWeek": 1907,
+    "timeMonth": 1961,
+    "timeYear": 1926,
+    "dailyMinutesDown": {
+      "2024-07-14": 0
+    }
   },
   {
     "name": "ClassCover App",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1199,
-    "timeDay": 1144,
-    "timeWeek": 1207,
-    "timeMonth": 1158,
-    "timeYear": 1199,
+    "time": 1196,
+    "timeDay": 955,
+    "timeWeek": 1175,
+    "timeMonth": 1146,
+    "timeYear": 1196,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 325,
-    "timeWeek": 221,
-    "timeMonth": 230,
-    "timeYear": 216,
+    "time": 218,
+    "timeDay": 348,
+    "timeWeek": 253,
+    "timeMonth": 231,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   }
 ]
