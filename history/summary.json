@@ -4,7 +4,7 @@
     "url": "https://app.classcover.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/app.classcover.com.au.ico",
     "slug": "class-cover-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 3643,
     "timeMonth": 1759,
     "timeYear": 1410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-30": 0
+    }
   },
   {
     "name": "ClassCover Jobs",
     "url": "https://jobs.classcover.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/jobs.classcover.com.au.ico",
     "slug": "class-cover-jobs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 245,
     "timeMonth": 234,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-30": 0
+    }
   }
 ]
