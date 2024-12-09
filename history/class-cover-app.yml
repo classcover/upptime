@@ -1,7 +1,7 @@
 url: https://app.classcover.com.au
-status: up
-code: 200
-responseTime: 1255
-lastUpdated: 2024-12-08T23:06:21.295Z
+status: down
+code: 502
+responseTime: 5689
+lastUpdated: 2024-12-09T05:42:25.098Z
 startTime: 2024-05-18T12:17:31.314Z
 generator: Upptime <https://github.com/upptime/upptime>
