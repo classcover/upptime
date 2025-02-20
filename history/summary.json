@@ -4,7 +4,7 @@
     "url": "https://app.classcover.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/app.classcover.com.au.ico",
     "slug": "class-cover-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1128,
     "timeYear": 1323,
     "dailyMinutesDown": {
+      "2025-02-20": 0,
       "2024-08-30": 65
     }
   },
