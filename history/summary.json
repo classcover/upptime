@@ -4,18 +4,20 @@
     "url": "https://app.classcover.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/app.classcover.com.au.ico",
     "slug": "class-cover-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1275,
-    "timeDay": 1125,
-    "timeWeek": 1340,
-    "timeMonth": 1244,
+    "time": 1276,
+    "timeDay": 1188,
+    "timeWeek": 1338,
+    "timeMonth": 1246,
     "timeYear": 1227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-03": 20
+    }
   },
   {
     "name": "ClassCover Jobs",
