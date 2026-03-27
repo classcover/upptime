@@ -4,19 +4,19 @@
     "url": "https://app.classcover.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/app.classcover.com.au.ico",
     "slug": "class-cover-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 1183,
-    "timeDay": 1171,
-    "timeWeek": 1095,
-    "timeMonth": 1252,
-    "timeYear": 1172,
+    "timeDay": 1150,
+    "timeWeek": 1099,
+    "timeMonth": 1247,
+    "timeYear": 1171,
     "dailyMinutesDown": {
-      "2026-03-27": 0
+      "2026-03-27": 25
     }
   },
   {
