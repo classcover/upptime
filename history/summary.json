@@ -6,14 +6,14 @@
     "slug": "class-cover-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.40%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
-    "time": 1175,
-    "timeDay": 1210,
-    "timeWeek": 1158,
-    "timeMonth": 1248,
+    "time": 1174,
+    "timeDay": 882,
+    "timeWeek": 1121,
+    "timeMonth": 1237,
     "timeYear": 1171,
     "dailyMinutesDown": {
       "2026-03-27": 67
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 390,
-    "timeWeek": 245,
-    "timeMonth": 247,
-    "timeYear": 275,
+    "timeDay": 196,
+    "timeWeek": 227,
+    "timeMonth": 246,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   }
 ]
