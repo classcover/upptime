@@ -25,17 +25,19 @@
     "url": "https://jobs.classcover.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/jobs.classcover.com.au.ico",
     "slug": "class-cover-jobs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 219,
-    "timeWeek": 236,
-    "timeMonth": 226,
+    "timeDay": 260,
+    "timeWeek": 244,
+    "timeMonth": 229,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-04": 0
+    }
   }
 ]
